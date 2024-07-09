@@ -108,3 +108,130 @@
 ## 5. Conclusión
 
 Sigue estos pasos para organizar y gestionar tu TFG en GitHub de manera eficiente utilizando una metodología ágil. La clave está en mantener una documentación clara, realizar tareas de manera incremental y asegurar la calidad mediante pruebas automatizadas. ¡Buena suerte con tu proyecto!
+
+---
+
+### Ejemplo de Descomposición de Milestones en Issues
+
+#### Milestone 1: Análisis de Requisitos
+
+1. **Issue 1: Recopilar requisitos del cliente**
+   - Descripción: Realizar entrevistas y reuniones con el cliente para entender sus necesidades y expectativas.
+   - Etiqueta: `requirement`, `meeting`
+
+2. **Issue 2: Documentar requisitos funcionales**
+   - Descripción: Redactar un documento que detalle los requisitos funcionales del sistema.
+   - Etiqueta: `documentation`, `requirement`
+
+3. **Issue 3: Documentar requisitos no funcionales**
+   - Descripción: Redactar un documento que detalle los requisitos no funcionales, como rendimiento, seguridad y usabilidad.
+   - Etiqueta: `documentation`, `requirement`
+
+4. **Issue 4: Validar requisitos con el cliente**
+   - Descripción: Revisar y aprobar los requisitos documentados con el cliente.
+   - Etiqueta: `meeting`, `approval`
+
+5. **Issue 5: Priorizar requisitos**
+   - Descripción: Ordenar los requisitos en función de su importancia y urgencia.
+   - Etiqueta: `planning`, `requirement`
+
+#### Milestone 2: Diseño de la Arquitectura
+
+1. **Issue 1: Crear diagramas de casos de uso**
+   - Descripción: Dibujar diagramas de casos de uso para visualizar las interacciones entre los usuarios y el sistema.
+   - Etiqueta: `design`, `diagram`
+
+2. **Issue 2: Diseñar la base de datos**
+   - Descripción: Crear el esquema de la base de datos y definir las relaciones entre las tablas.
+   - Etiqueta: `design`, `database`
+
+3. **Issue 3: Definir la arquitectura del software**
+   - Descripción: Describir la arquitectura del sistema, incluyendo los componentes y su interacción.
+   - Etiqueta: `design`, `architecture`
+
+4. **Issue 4: Crear diagramas de clases**
+   - Descripción: Dibujar diagramas de clases para definir la estructura del software.
+   - Etiqueta: `design`, `diagram`
+
+5. **Issue 5: Revisar y aprobar el diseño**
+   - Descripción: Revisar el diseño con el equipo y obtener la aprobación del cliente.
+   - Etiqueta: `review`, `approval`
+
+#### Milestone 3: Implementación
+
+1. **Issue 1: Configurar el entorno de desarrollo**
+   - Descripción: Preparar el entorno de desarrollo incluyendo la instalación de herramientas necesarias.
+   - Etiqueta: `setup`, `development`
+
+2. **Issue 2: Implementar la base de datos**
+   - Descripción: Crear la base de datos de acuerdo con el diseño aprobado.
+   - Etiqueta: `development`, `database`
+
+3. **Issue 3: Desarrollar la API**
+   - Descripción: Implementar la API del sistema según los requisitos definidos.
+   - Etiqueta: `development`, `api`
+
+4. **Issue 4: Crear la interfaz de usuario**
+   - Descripción: Diseñar e implementar la interfaz de usuario.
+   - Etiqueta: `development`, `ui`
+
+5. **Issue 5: Implementar la lógica de negocio**
+   - Descripción: Desarrollar la lógica de negocio del sistema.
+   - Etiqueta: `development`, `business logic`
+
+6. **Issue 6: Realizar pruebas unitarias**
+   - Descripción: Escribir y ejecutar pruebas unitarias para el código implementado.
+   - Etiqueta: `testing`, `unittest`
+
+#### Milestone 4: Pruebas y Validación
+
+1. **Issue 1: Realizar pruebas de integración**
+   - Descripción: Probar la integración entre diferentes módulos del sistema.
+   - Etiqueta: `testing`, `integration`
+
+2. **Issue 2: Realizar pruebas de sistema**
+   - Descripción: Probar el sistema completo para verificar que cumple con los requisitos.
+   - Etiqueta: `testing`, `system`
+
+3. **Issue 3: Realizar pruebas de aceptación con el cliente**
+   - Descripción: Realizar pruebas con el cliente para validar que el sistema cumple con sus expectativas.
+   - Etiqueta: `testing`, `acceptance`
+
+4. **Issue 4: Documentar resultados de pruebas**
+   - Descripción: Documentar los resultados de las pruebas realizadas.
+   - Etiqueta: `documentation`, `testing`
+
+5. **Issue 5: Corregir errores encontrados**
+   - Descripción: Corregir los errores y problemas encontrados durante las pruebas.
+   - Etiqueta: `bug`, `fix`
+
+#### Milestone 5: Documentación Final y Presentación
+
+1. **Issue 1: Redactar documentación del usuario**
+   - Descripción: Crear manuales y guías para los usuarios finales del sistema.
+   - Etiqueta: `documentation`, `user guide`
+
+2. **Issue 2: Documentar el código**
+   - Descripción: Añadir comentarios y documentación al código fuente.
+   - Etiqueta: `documentation`, `code`
+
+3. **Issue 3: Preparar la presentación del proyecto**
+   - Descripción: Crear una presentación que resuma el proyecto, incluyendo objetivos, metodología, desarrollo y resultados.
+   - Etiqueta: `presentation`, `summary`
+
+4. **Issue 4: Ensayar la presentación**
+   - Descripción: Practicar la presentación para asegurar una buena exposición.
+   - Etiqueta: `presentation`, `practice`
+
+5. **Issue 5: Revisión final y entrega**
+   - Descripción: Realizar una revisión final de todo el proyecto y entregar el TFG.
+   - Etiqueta: `review`, `delivery`
+
+### Notas Adicionales
+
+- **Etiquetas**: Utiliza etiquetas en GitHub para organizar y priorizar los issues.
+- **Asignaciones**: Asigna cada issue a ti mismo o a otros colaboradores si es necesario.
+- **Vinculación**: Relaciona los issues con los milestones correspondientes para tener un seguimiento claro del progreso.
+
+Sigue estos pasos para descomponer tus milestones en issues manejables y asegurarte de que tu TFG avance de manera organizada y eficiente.
+
